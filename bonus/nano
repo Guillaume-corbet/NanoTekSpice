@@ -1,0 +1,17 @@
+-> Parser le fichier
+
+-> Récupérer un vecteur d'arguments, un vecteur de link, un vecteur d'input
+
+-> Créer tous les components avec la factory
+
+-> Stocker tous les components dans la class Circuit
+
+-> Faire la fonction qui va faire tous les links
+
+-> Faire la fonction qui va faire la simulation avec le compute en boucle
+
+-> Faire le terminal
+
+-> Destruction de tous les components à chaque fin de simulation
+
+-> Lors d'une modification de la valeur d'input modification du vecteur d'arguments stocké dans le parseur
